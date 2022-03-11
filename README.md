@@ -1,9 +1,9 @@
 ## Hello Devs, me chamo Marcos Felipe ! 
 ### Bem vindo ao meu perfil GitHub
 
-- 🔭 Atualmente cursando: Sistemas de Informações pela FAM (Faculdade das Americas)....
-- 📚 O início da minha jornada na programação: junho/2021;
-- ⚡ Curiosidades: Estou em mudança de carreira procurando toda oportunidade de aprender. Foco no futuro e desistir jamais, de pouco a pouco a gente chega lá, todo mundo sabe que os bilhões são feitos de centavos...
+- 🔭 Atualmente cursando: Sistemas de Informações pela FAM (Faculdade das Americas).
+- 📚 O início da minha jornada na programação: junho/2021.
+- ⚡ Curiosidades: Estou em mudança de carreira procurando toda oportunidade de aprender. Foco no futuro e desistir jamais, de pouco a pouco a gente chega lá, todo mundo sabe que os bilhões são feitos de centavos.
 
 <div align="center">
   <a href="https://github.com/ThatianeDeboleto">
